@@ -6,7 +6,7 @@ from pymdp.control import softmax, calc_states_info_gain
 from reward_aversion_curvature import wundt
 
 def kl_div(P,Q):
-    # RUBATA DA PYMDP
+    # from PYMDP 
     """
     Parameters
     ----------
